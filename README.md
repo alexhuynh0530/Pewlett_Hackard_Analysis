@@ -12,21 +12,21 @@ This is an anlayis for Pewlett Hackard to find which positions will need to be f
 
 - The retirment_titles table shows retiring employees and thier titles with birth dates between 1/1/1952 and 12/31/1955.
 
-![retirement_titles.png](https://github.com/alexhuynh0530/Pewlett_Hackard_Analysis/retirement_titles.png)
+![retirement_titles.png](https://github.com/alexhuynh0530/Pewlett_Hackard_Analysis/blob/main/retirement_titles.png)
 
 - The unique titles table uses Dictinct with Orderby to remove duplicate rows on retirement_titles.
 
-![unique_titles.png](https://github.com/alexhuynh0530/Pewlett_Hackard_Analysis/unique_titles.png)
+![unique_titles.png](https://github.com/alexhuynh0530/Pewlett_Hackard_Analysis/blob/main/unique_titles.png)
 
 - The retiring_titles table retrieves the number of employees by job title
 
-![retiring_titles.png](https://github.com/alexhuynh0530/Pewlett_Hackard_Analysis/retiring_titles.png)
+![retiring_titles.png](https://github.com/alexhuynh0530/Pewlett_Hackard_Analysis/blob/main/retiring_titles.png)
 
 ### The Employees Eligible for the Mentorship Program
 
 - The mentorship_eligibilty table holds data for retiring employees with their title.
 
-![mentorship_eligibilty.png](https://github.com/alexhuynh0530/Pewlett_Hackard_Analysis/mentorship_eligibilty.png)
+![mentorship_eligibilty.png](https://github.com/alexhuynh0530/Pewlett_Hackard_Analysis/blob/main/mentorship_eligibilty.png)
 
 ## Summary
 
@@ -44,4 +44,4 @@ Are there enough qualified, retirement-ready employees in the departments to men
 
 No, we are missing mentorship qualified employees that are managers to mentor the next generation.
 
-![mentorship_eligibility_count.png](https://github.com/alexhuynh0530/Pewlett_Hackard_Analysis/mentorship_eligibility_count.png)
+![mentorship_eligibility_count.png](https://github.com/alexhuynh0530/Pewlett_Hackard_Analysis/blob/main/Vmentorship_eligibility_count.png)
