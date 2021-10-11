@@ -44,4 +44,4 @@ Are there enough qualified, retirement-ready employees in the departments to men
 
 No, we are missing mentorship qualified employees that are managers to mentor the next generation.
 
-![mentorship_eligibility_count.png](https://github.com/alexhuynh0530/Pewlett_Hackard_Analysis/blob/main/Vmentorship_eligibility_count.png)
+![mentorship_eligibility_count.png](https://github.com/alexhuynh0530/Pewlett_Hackard_Analysis/blob/main/mentorship_eligibility_count.png)
